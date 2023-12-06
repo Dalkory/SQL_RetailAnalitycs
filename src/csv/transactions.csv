@@ -1,0 +1,4 @@
+transaction_id,customer_card_id,transaction_summ,transaction_datetime,transaction_store_id
+11,9,777,12.08.2023 13:30:45,3
+12,8,888,13.08.2023 15:23:01,4
+13,7,991,14.08.2023 20:00:09,5
